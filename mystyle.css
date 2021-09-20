@@ -7,10 +7,10 @@ body {
 #wrapper {
 	width: 80%;
 	height:350px;
-	background-image: linear-gradient(to left, #000000, #2f2494);
+	background-image: linear-gradient(to left, #FFF, #2f2494);
 	margin-top:120px;
 	border-radius: 50px;
-	margin-left:220px;
+	margin-left:50px;
 	
 }
 input{
