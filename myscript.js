@@ -14,9 +14,9 @@ var btn = document.querySelector('input[type=button][value=check]');
 btn.onclick = function () {
 	value = checkAnswer.value;
 	if (value == answer) {
-		alert ('Hezhysticks approves it correct');
+		alert ('You answereed it correctly');
 }else {
-	alert('Hezhysticks totally disapproves, the answer is ' + answer);
+	alert('You're wrong, the answer is ' + answer);
 }
 
 document.querySelector('input[type=text]').value = "";
