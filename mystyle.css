@@ -16,6 +16,7 @@ body {
 input{
 	border-radius:20px;
 	padding:1em;
+	outline:none;
 }
 
 #btn {
@@ -26,6 +27,7 @@ input{
 	font-weight:bold;
 	width:100px;
 	border-radius:20px;
+	outline:none;
 
 
 }
