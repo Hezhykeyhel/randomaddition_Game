@@ -14,11 +14,10 @@ body {
 	background-image: linear-gradient(to left, rgb(230, 217, 161), #10047a);
 	margin-top:100px;
 	margin-left:2px;
+	margin-right:2px;
 }
 #number1, #number2{
 	margin-top: 100px;
-	margin-left:-5px;
-	margin-right:5px;
 	border-radius: 20px;
 
 }
@@ -46,4 +45,5 @@ body {
 }
 .signs, input{
 	margin-top: 100px;
+	margin-right:5px;
 }
