@@ -9,13 +9,13 @@ body {
 	height:350px;
 	background-image: linear-gradient(to left, #000000, #2f2494);
 	margin-top:120px;
-	border-radius: 30px;
+	border-radius: 50px;
 	margin-left:220px;
 	
 }
 input{
-	border-radius:10px;
-	padding:0.5em;
+	border-radius:20px;
+	padding:1em;
 }
 
 #btn {
