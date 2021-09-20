@@ -5,11 +5,17 @@ body {
 }
 
 #wrapper {
-	width: 750px;
+	width: 80%;
 	height:350px;
-	background-color:yellow;
+	background-image: linear-gradient(to left, #000000, #2f2494);
 	margin-top:120px;
-	margin-left:220;
+	border-radius: 30px;
+	margin-left:220px;
+	
+}
+input{
+	border-radius:10px;
+	padding:0.5em;
 }
 
 #btn {
@@ -20,6 +26,7 @@ body {
 	border-style:none;
 	font-weight:bold;
 	width:100px;
+	border-radius:8px;
 
 
 }
