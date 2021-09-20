@@ -1,5 +1,5 @@
 body {
-	background-color:#4d91e2;
+	background-color:#EAF6F6;
 
 
 }
@@ -23,10 +23,9 @@ input{
 	background-color:red;
 	color:#fff;
 	padding:12px;
-	border-style:none;
 	font-weight:bold;
 	width:100px;
-	border-radius:8px;
+	border-radius:20px;
 
 
 }
