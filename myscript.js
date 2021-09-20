@@ -1,8 +1,8 @@
 var number1;
 var number2;
 
-number1 = Math.floor((Math.random() * 10) + 1);
-number2 = Math.floor((Math.random()* 10) + 1);
+number1 = Math.floor((Math.random() * 100) + 1);
+number2 = Math.floor((Math.random()* 100) + 1);
 document.getElementById("number1").innerHTML = number1;
 document.getElementById("number2").innerHTML = number2;
 
@@ -22,8 +22,8 @@ btn.onclick = function () {
 document.querySelector('input[type=text]').value = "";
 document.getElementById('number1').innerHTML = "";
 document.getElementById('number2').innerHTML = "";
-number1 = Math.floor((Math.random() * 10) + 1);
-number2 = Math.floor((Math.random() * 10) + 1);
+number1 = Math.floor((Math.random() * 100) + 1);
+number2 = Math.floor((Math.random() * 100) + 1);
 document.getElementById('number1').innerHTML = number1;
 document.getElementById('number2').innerHTML = number2;
 
